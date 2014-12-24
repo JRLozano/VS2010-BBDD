@@ -1,0 +1,11 @@
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.pdb
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\bin\Debug\PruebaBBDD.xml
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\bin\Debug\MySql.Data.dll
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\obj\x86\Debug\PruebaBBDD.vbprojResolveAssemblyReference.cache
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\obj\x86\Debug\PruebaBBDD.vbproj.GenerateResource.Cache
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\obj\x86\Debug\PruebaBBDD.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\obj\x86\Debug\PruebaBBDD.xml
+C:\Users\Jorge\documents\visual studio 2010\Projects\PruebaBBDD\PruebaBBDD\obj\x86\Debug\PruebaBBDD.pdb
