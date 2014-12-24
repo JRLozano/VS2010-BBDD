@@ -1,0 +1,9 @@
+C:\Users\Jorge\documents\visual studio 2010\Projects\BBDDC\BBDDC\bin\Debug\BBDDC.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\BBDDC\BBDDC\bin\Debug\BBDDC.pdb
+C:\Users\Jorge\documents\visual studio 2010\Projects\BBDDC\BBDDC\bin\Debug\MySql.Data.dll
+C:\Users\Jorge\documents\visual studio 2010\Projects\BBDDC\BBDDC\obj\x86\Debug\BBDDC.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\documents\visual studio 2010\Projects\BBDDC\BBDDC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\BBDDC\BBDDC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jorge\documents\visual studio 2010\Projects\BBDDC\BBDDC\obj\x86\Debug\BBDDC.csproj.GenerateResource.Cache
+C:\Users\Jorge\documents\visual studio 2010\Projects\BBDDC\BBDDC\obj\x86\Debug\BBDDC.exe
+C:\Users\Jorge\documents\visual studio 2010\Projects\BBDDC\BBDDC\obj\x86\Debug\BBDDC.pdb
