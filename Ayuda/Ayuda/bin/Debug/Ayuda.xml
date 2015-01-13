@@ -1,0 +1,183 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ayuda
+</name>
+</assembly>
+<members>
+<member name="P:Ayuda.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Archivo">
+	<summary>
+  Busca una cadena traducida similar a &lt;html&gt;
+	
+&lt;head&gt;
+	&lt;title&gt;Archivo&lt;/title&gt;
+	&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;meta name="generator" content="HelpNDoc Personal Edition 4.6.2.573"&gt;
+	&lt;meta name="keywords" content=""&gt;
+	
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/reset.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/base.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/hnd.css" /&gt;
+	&lt;!--[if lte IE 8]&gt;
+		&lt;link type="text/css" rel="styles [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Archivo_de_ayuda">
+	<summary>
+  Busca un recurso adaptado de tipo System.Byte[].
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Archivo_de_ayuda1">
+	<summary>
+  Busca una cadena traducida similar a &lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+
+	&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;meta name="generator" content="HelpNDoc Personal Edition 4.6.2.573"&gt;
+    &lt;title&gt;Archivo de ayuda&lt;/title&gt;
+    &lt;script type="text/javascript"&gt;
+      function escapeHtml(unsafe) {
+        return unsafe.replace(/&amp;/g, "&amp;amp;").replace(/&lt;/g, "&amp;lt;").replace(/&gt;/g, "&amp;gt;").replace(/"/g, "&amp;quot;").replace(/'/g, "&amp;#039 [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Bienvenido">
+	<summary>
+  Busca una cadena traducida similar a &lt;html&gt;
+	
+&lt;head&gt;
+	&lt;title&gt;Bienvenido&lt;/title&gt;
+	&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;meta name="generator" content="HelpNDoc Personal Edition 4.6.2.573"&gt;
+	&lt;meta name="keywords" content=""&gt;
+	
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/reset.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/base.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/hnd.css" /&gt;
+	&lt;!--[if lte IE 8]&gt;
+		&lt;link type="text/css" rel="sty [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Capturasdepantalla">
+	<summary>
+  Busca una cadena traducida similar a &lt;html&gt;
+	
+&lt;head&gt;
+	&lt;title&gt;Capturas de pantalla&lt;/title&gt;
+	&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;meta name="generator" content="HelpNDoc Personal Edition 4.6.2.573"&gt;
+	&lt;meta name="keywords" content=""&gt;
+	
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/reset.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/base.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/hnd.css" /&gt;
+	&lt;!--[if lte IE 8]&gt;
+		&lt;link type="text/css [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Edicion">
+	<summary>
+  Busca una cadena traducida similar a &lt;html&gt;
+	
+&lt;head&gt;
+	&lt;title&gt;Edici&amp;oacute;n&lt;/title&gt;
+	&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;meta name="generator" content="HelpNDoc Personal Edition 4.6.2.573"&gt;
+	&lt;meta name="keywords" content=""&gt;
+	
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/reset.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/base.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/hnd.css" /&gt;
+	&lt;!--[if lte IE 8]&gt;
+		&lt;link type="text/css" rel= [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Herramientas">
+	<summary>
+  Busca una cadena traducida similar a &lt;html&gt;
+	
+&lt;head&gt;
+	&lt;title&gt;Herramientas&lt;/title&gt;
+	&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;meta name="generator" content="HelpNDoc Personal Edition 4.6.2.573"&gt;
+	&lt;meta name="keywords" content=""&gt;
+	
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/reset.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/base.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/hnd.css" /&gt;
+	&lt;!--[if lte IE 8]&gt;
+		&lt;link type="text/css" rel="s [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Presentacion">
+	<summary>
+  Busca una cadena traducida similar a &lt;html&gt;
+	
+&lt;head&gt;
+	&lt;title&gt;Presentaci&amp;oacute;n&lt;/title&gt;
+	&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;meta name="generator" content="HelpNDoc Personal Edition 4.6.2.573"&gt;
+	&lt;meta name="keywords" content=""&gt;
+	
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/reset.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/base.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/hnd.css" /&gt;
+	&lt;!--[if lte IE 8]&gt;
+		&lt;link type="text/css" [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Referenciadefunciones">
+	<summary>
+  Busca una cadena traducida similar a &lt;html&gt;
+	
+&lt;head&gt;
+	&lt;title&gt;Referencia de funciones&lt;/title&gt;
+	&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;meta name="generator" content="HelpNDoc Personal Edition 4.6.2.573"&gt;
+	&lt;meta name="keywords" content=""&gt;
+	
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/reset.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/base.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/hnd.css" /&gt;
+	&lt;!--[if lte IE 8]&gt;
+		&lt;link type="text/ [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.Requisitosminimos">
+	<summary>
+  Busca una cadena traducida similar a &lt;html&gt;
+	
+&lt;head&gt;
+	&lt;title&gt;Requisitos minimos&lt;/title&gt;
+	&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;meta name="generator" content="HelpNDoc Personal Edition 4.6.2.573"&gt;
+	&lt;meta name="keywords" content=""&gt;
+	
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/reset.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/base.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/hnd.css" /&gt;
+	&lt;!--[if lte IE 8]&gt;
+		&lt;link type="text/css"  [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:Ayuda.My.Resources.Resources.toc">
+	<summary>
+  Busca una cadena traducida similar a &lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+	&lt;title&gt;Archivo de ayuda- Table of Contents&lt;/title&gt;
+	&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;meta name="generator" content="HelpNDoc Personal Edition 4.6.2.573"&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/reset.css" /&gt;
+	&lt;link type="text/css" rel="stylesheet" media="all" href="css/silver-theme/jquery-ui-1.8.12.custom.css" /&gt;
+	&lt;link  [resto de la cadena truncado]";.
+</summary>
+</member><member name="T:Ayuda.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

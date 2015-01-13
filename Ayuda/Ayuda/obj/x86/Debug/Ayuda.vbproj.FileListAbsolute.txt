@@ -1,0 +1,12 @@
+c:\users\miriam\documents\visual studio 2010\Projects\Ayuda\Ayuda\bin\Debug\Ayuda.exe
+c:\users\miriam\documents\visual studio 2010\Projects\Ayuda\Ayuda\bin\Debug\Ayuda.pdb
+c:\users\miriam\documents\visual studio 2010\Projects\Ayuda\Ayuda\bin\Debug\Ayuda.xml
+c:\users\miriam\documents\visual studio 2010\Projects\Ayuda\Ayuda\obj\x86\Debug\Ayuda.Form1.resources
+c:\users\miriam\documents\visual studio 2010\Projects\Ayuda\Ayuda\obj\x86\Debug\Ayuda.Resources.resources
+c:\users\miriam\documents\visual studio 2010\Projects\Ayuda\Ayuda\obj\x86\Debug\Ayuda.vbproj.GenerateResource.Cache
+c:\users\miriam\documents\visual studio 2010\Projects\Ayuda\Ayuda\obj\x86\Debug\Ayuda.exe
+c:\users\miriam\documents\visual studio 2010\Projects\Ayuda\Ayuda\obj\x86\Debug\Ayuda.xml
+c:\users\miriam\documents\visual studio 2010\Projects\Ayuda\Ayuda\obj\x86\Debug\Ayuda.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Ayuda\Ayuda\obj\x86\Debug\Ayuda.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Ayuda\Ayuda\obj\x86\Debug\Ayuda.xml
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\Ayuda\Ayuda\obj\x86\Debug\Ayuda.pdb
