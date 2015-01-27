@@ -1,12 +1,8 @@
 ﻿
-Imports System.Data.SQLite
 Public Class Configuracion
-    Dim con As SQLiteConnection = New SQLiteConnection("Data source = ejemplo.db")
-    Dim cmd As SQLiteCommand
 
     Public i As Integer
-    Dim j As Integer = 0
-    Dim simbolos(5) As Integer
+    'Public dif As Char
 
     Private Sub LOAD_Configuracion(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         DeshabilitarOps()
@@ -31,7 +27,7 @@ Public Class Configuracion
             CBotNegat.Checked = False
             TbTime.Enabled = False
 
-            Juego.difficult = "E"
+            dif = "E"
 
         ElseIf RBdMed.Checked Then
 
@@ -49,7 +45,7 @@ Public Class Configuracion
             CBotNegat.Checked = False
             TbTime.Enabled = False
 
-            Juego.difficult = "M"
+            dif = "M"
         ElseIf RBdHard.Checked() Then
 
             DeshabilitarOps()
@@ -66,7 +62,7 @@ Public Class Configuracion
             CBotNegat.Checked = True
             TbTime.Enabled = False
 
-            Juego.difficult = "H"
+            dif = "H"
         ElseIf RBdPers.Checked Then
 
             HabilitarOps()
@@ -81,7 +77,7 @@ Public Class Configuracion
             CBotNegat.Checked = False
             TbTime.Enabled = True
 
-            Juego.difficult = "P"
+            dif = "P"
         End If
 
         i = CType(sender, RadioButton).Tag
@@ -126,4 +122,5 @@ Public Class Configuracion
         Me.Close()
         Tittle.Show()
     End Sub
+
 End Class

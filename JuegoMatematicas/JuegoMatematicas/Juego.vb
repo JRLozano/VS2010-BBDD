@@ -22,17 +22,11 @@ Public Class Juego
             TbRes1.Enabled = False
             BPause.Enabled = False
             Timer2.Stop()
+            punt = puntuacion
 
             'Me.Comment = Interaction.InputBox("Introduce un comentario(No obligatorio)", "Comentario")
-            'Me.InsertarPartida()
-            'Dim conexion As SQLiteConnection = New SQLiteConnection("Data Source = Resources/juegoMat.db")
+            GestionBBDD.InsertarPartida()
 
-            'Dim comando As String = "INSERT INTO Puntuaciones VALUES ('Prueba', 'E', 30, CURRENT_TIMESTAMP, 'PartidaPrueba1')"
-
-            'Dim cmd As SQLiteCommand = New SQLiteCommand(comando, conexion)
-            'conexion.Open()
-            'cmd.ExecuteNonQuery()
-            'conexion.Close()
             MsgBox("Gracias por Jugar!!!")
         Else
             sec -= 1
@@ -110,108 +104,4 @@ Public Class Juego
             '    mensajes.Text = "Solo acepta numeros, comas y simbolos de negativo"
         End If
     End Sub
-
-    
-    Public nick As String = "Prueba"
-    Public difficult As Char
-    Public Comment As String = ""
-
-
-    'Public Sub InsertarPartida()
-    '    Dim conexion As SQLiteConnection = New SQLiteConnection("Data Source = Resources/juegoMat.db")
-    '    conexion.Open()
-    '    Dim comando As String = "INSERT INTO Puntuaciones VALUES ('Prueba', 'E', 30, CURRENT_TIMESTAMP, 'PartidaPrueba1')"
-    '    'Dim comando As String = "SELECT * FROM Jugadores"
-    '    Dim cmd As SQLiteCommand = New SQLiteCommand(comando, conexion)
-    '    'Dim reader As SQLiteDataReader = cmd.ExecuteReader
-
-    '    'If reader.Read Then
-    '    '    MsgBox(reader.GetString(0) & " - " & reader.GetString(1) & " - " & reader.GetInt16(2))
-    '    'End If
-
-
-
-    '    'Dim id As SQLiteParameter = New SQLiteParameter
-    '    'id.Value = nick
-    '    'Dim dif As SQLiteParameter = New SQLiteParameter
-    '    'dif.Value = difficult
-    '    'Dim score As SQLiteParameter = New SQLiteParameter
-    '    'score.Value = puntuacion
-    '    'Dim fec As SQLiteParameter = New SQLiteParameter
-    '    'fec.Value = DateAndTime.Now
-    '    'Dim com As SQLiteParameter = New SQLiteParameter
-    '    'com.Value = "PartidaPrueba1"
-
-    '    'cmd.Parameters.Add(id)
-    '    'cmd.Parameters.Add(dif)
-    '    'cmd.Parameters.Add(score)
-    '    'cmd.Parameters.Add(fec)
-    '    'cmd.Parameters.Add(com)
-    '    cmd.ExecuteNonQuery()
-    '    conexion.Close()
-    'End Sub
-    
-
-    'Private Sub TbRes2_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles TbRes2.KeyPress
-    '    If e.KeyChar = ChrW(13) Or e.KeyChar = ChrW(9) Then
-    '        Select Case Operaciones.operation2
-    '            Case "+"
-    '                If CLng(TbRes2.Text) = Operaciones.n3 + Operaciones.n4 Then
-    '                    puntuacion = puntuacion + 1
-    '                Else
-    '                    puntuacion = puntuacion - 1
-    '                End If
-    '            Case "-"
-    '                If CLng(TbRes2.Text) = Operaciones.n3 - Operaciones.n4 Then
-    '                    puntuacion = puntuacion + 1
-    '                Else
-    '                    puntuacion = puntuacion - 1
-    '                End If
-    '            Case "*"
-    '                If CLng(TbRes2.Text) = Operaciones.n3 * Operaciones.n4 Then
-    '                    puntuacion = puntuacion + 1
-    '                Else
-    '                    puntuacion = puntuacion - 1
-    '                End If
-    '            Case "/"
-    '                If CLng(TbRes2.Text) = Operaciones.n3 / Operaciones.n4 Then
-    '                    puntuacion = puntuacion + 1
-    '                Else
-    '                    puntuacion = puntuacion - 1
-    '                End If
-    '            Case "^"
-    '                If CLng(TbRes2.Text) = Operaciones.n3 ^ Operaciones.n4 Then
-    '                    puntuacion = puntuacion + 1
-    '                Else
-    '                    puntuacion = puntuacion - 1
-    '                End If
-    '        End Select
-    '        BPause.Text = puntuacion
-    '        TbRes1.Focus()
-    '        lblOp2.Text = Operaciones.Operations2(i)
-    '    End If
-    'End Sub
-    
-
-    'Private Sub TbRes2_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles TbRes2.KeyPress
-    'Dim MsgBoxRegex As Regex = New Regex("(^-?\d{2}(\.(\d{1,2}?))?$)")
-    'Dim M As Match = MsgBoxRegex.Match(TbRes2.Text)
-    'Dim pattern2 As Regex = New Regex("(^-?\d{1,2})")
-    'Dim m2 As Match = pattern2.Match(TbRes2.Text)
-
-
-    'If e.KeyChar = ChrW(13) Then
-    '    'If M.Success Or m2.Success Then
-    '    If Regex.IsMatch(TbRes2.Text, "(^-?\d{2}(\.(\d{1,2}?))?$)") Or Regex.IsMatch(TbRes2.Text, "(^-?\d{1,2})") Then
-
-
-    '        MsgBox("bien")
-    '    Else
-    '        MsgBox("mal")
-    '    End If
-
-
-    'End If
-
-    'End Sub
 End Class

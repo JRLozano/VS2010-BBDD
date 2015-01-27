@@ -97,6 +97,7 @@
     <Compile Include="Configuracion.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="GestionBBDD.vb" />
     <Compile Include="Juego.Designer.vb">
       <DependentUpon>Juego.vb</DependentUpon>
     </Compile>

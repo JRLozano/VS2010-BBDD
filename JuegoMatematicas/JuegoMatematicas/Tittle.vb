@@ -1,9 +1,5 @@
 ﻿Public Class Tittle
 
-    Private Sub Tittle_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
-    End Sub
-
     Private Sub BExit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BExit.Click
         Close()
     End Sub
